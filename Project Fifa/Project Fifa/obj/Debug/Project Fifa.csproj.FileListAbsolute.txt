@@ -1,0 +1,9 @@
+C:\Users\Yannick\Desktop\Project voetbal\Project Fifa\Project Fifa\bin\Debug\Project Fifa.exe.config
+C:\Users\Yannick\Desktop\Project voetbal\Project Fifa\Project Fifa\bin\Debug\Project Fifa.exe
+C:\Users\Yannick\Desktop\Project voetbal\Project Fifa\Project Fifa\bin\Debug\Project Fifa.pdb
+C:\Users\Yannick\Desktop\Project voetbal\Project Fifa\Project Fifa\obj\Debug\Project Fifa.csprojResolveAssemblyReference.cache
+C:\Users\Yannick\Desktop\Project voetbal\Project Fifa\Project Fifa\obj\Debug\Project_Fifa.Form1.resources
+C:\Users\Yannick\Desktop\Project voetbal\Project Fifa\Project Fifa\obj\Debug\Project_Fifa.Properties.Resources.resources
+C:\Users\Yannick\Desktop\Project voetbal\Project Fifa\Project Fifa\obj\Debug\Project Fifa.csproj.GenerateResource.Cache
+C:\Users\Yannick\Desktop\Project voetbal\Project Fifa\Project Fifa\obj\Debug\Project Fifa.exe
+C:\Users\Yannick\Desktop\Project voetbal\Project Fifa\Project Fifa\obj\Debug\Project Fifa.pdb
